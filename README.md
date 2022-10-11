@@ -15,17 +15,18 @@ I'm a Full Stack Web Developer from Buenos Aires, Argentina.
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/silvina-varela">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silvina-varela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvina-varela&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 📫🏻 &nbsp;Contact Me
+### :trophy: GitHub Trophies
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 
 <!--
