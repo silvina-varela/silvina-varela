@@ -1,6 +1,7 @@
 ### Hi, I'm Silvina 👋
 I'm a Full Stack Web Developer from Buenos Aires, Argentina. 
 
+## Skills &nbsp; 
 ### 💻&nbsp;Languages
 ![-JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![-HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -36,8 +37,7 @@ I'm a Full Stack Web Developer from Buenos Aires, Argentina.
 </p>
 
 ### 🏆 GitHub Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=algolia" alt="trophies" /></a> </p>
+<p align=""> <a href="https://github.com/silvina-varela/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=flat&rank=A,AA,AAA,S,SS,SSS&margin-w=15&margin-h=15" alt="trophies" /></a> </p>
 
 ### 💬 Contact Me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvinavarela/)
