@@ -28,6 +28,10 @@ I'm a Full Stack Web Developer from Buenos Aires, Argentina.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
+### My Codewars stats:
+
+<img src= "https://www.codewars.com/users/silvina_/badges/micro" width= "200"/>
+
 
 <!--
 **silvina-varela/silvina-varela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
