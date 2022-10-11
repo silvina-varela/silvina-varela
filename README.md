@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer from Buenos Aires, Argentina.
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silvina-varela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvina-varela&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
