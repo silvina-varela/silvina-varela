@@ -39,10 +39,6 @@ I'm a Full Stack Web Developer from Buenos Aires, Argentina.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=algolia" alt="trophies" /></a> </p>
 
-### 🚀 My Codewars stats:
-
-<img src= "https://www.codewars.com/users/silvina_/badges/micro" width= "200"/>
-
 ### 💬 Contact Me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvinavarela/)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varelasilvina@gmail.com)
