@@ -1,7 +1,7 @@
 ### Hi, I'm Silvina 👋
 I'm a Full Stack Web Developer from Buenos Aires, Argentina. 
 
-## 🤹‍ Skills &nbsp; 
+## 🤹‍ My Skills &nbsp; 
 ### &nbsp;Languages
 ![-JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![-HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -26,7 +26,7 @@ I'm a Full Stack Web Developer from Buenos Aires, Argentina.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
 
-## ⚡ &nbsp;GitHub Stats
+## ⚡ &nbsp;My GitHub Stats
 
 <p align="center">
 	<a href="https://github.com/silvina-varela">
