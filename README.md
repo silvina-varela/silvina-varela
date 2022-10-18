@@ -32,14 +32,6 @@ When I'm not coding and learning new technologies, I turn into a woodworker.
 
 
 ## ⚡ &nbsp;My GitHub Stats
-
-<p align="center">
-	<a href="https://github.com/silvina-varela">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=silvina-varela&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvina-varela" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
 <p> <a href="https://github.com/silvina-varela/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=flat&rank=A,AA,AAA,S,SS,SSS&margin-w=15&margin-h=15" alt="trophies" /></a> </p>
 
 ## 💬 Contact Me
