@@ -31,9 +31,6 @@ When I'm not coding and learning new technologies, I turn into a woodworker.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
 
-## ⚡ &nbsp;My GitHub Stats
-<p> <a href="https://github.com/silvina-varela/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=flat&rank=A,AA,AAA,S,SS,SSS&margin-w=15&margin-h=15" alt="trophies" /></a> </p>
-
 ## 💬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvinavarela/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varelasilvina@gmail.com)
