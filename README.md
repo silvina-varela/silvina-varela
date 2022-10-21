@@ -30,6 +30,14 @@ When I'm not coding and learning new technologies, I turn into a woodworker.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
+## ⚡ &nbsp; Stats
+<!---
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=silvina-varela)&nbsp;
+![Stats](https://github-readme-stats.vercel.app/api?username=silvina-varela&show_icons=true)&nbsp;
+--->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=silvina-varela&layout=compact&theme=flat&rank=A,AA,AAA,S,SS,SSS&margin-w=15&margin-h=15)](https://github.com/silvina-varela/github-profile-trophy)&nbsp;
+
+![CodeWars](https://www.codewars.com/users/silvina_/badges/small)&nbsp;
 
 ## 💬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvinavarela/)
