@@ -30,6 +30,10 @@ When I'm not coding and learning new technologies, I turn into a woodworker.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
+
+### &nbsp;Currently learning
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 ## ⚡ &nbsp; Stats
 <!---
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=silvina-varela)&nbsp;
