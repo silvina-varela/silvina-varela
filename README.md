@@ -1,6 +1,6 @@
 ### Hi, I'm Silvina 👋
-I'm a Full Stack Web Developer from Buenos Aires, Argentina. I have experience in PERN stack and a background in book editing and publishing that has equipped me with the skills to work in collaborative and creative environments, where being detail-oriented, resourceful, organized and eager to share knowledge with others is highly valued. My experience as an editor has also given me a sharp eye for typos and inconsistencies that is valuable when writing clear and effective code. 
-When I'm not coding and learning new technologies, I turn into a woodworker.
+I'm a Full Stack Web Developer from Buenos Aires, Argentina. I have experience in PERN stack and a background in book editing and publishing that has equipped me with the skills to work in collaborative environments, where being detail-oriented, resourceful, organized and eager to share knowledge with others is highly valued. My experience as an editor has also given me a sharp eye for typos and inconsistencies that is valuable when writing clear and effective code. 
+
 
 
 ## 🤹‍ My Skills &nbsp; 
@@ -24,15 +24,13 @@ When I'm not coding and learning new technologies, I turn into a woodworker.
 
 ### &nbsp;Database
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### &nbsp;Version Control & CI/CD
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
-
-### &nbsp;Currently learning
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ## ⚡ &nbsp; Stats
 <!---
